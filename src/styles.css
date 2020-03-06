@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.value {
+  background-color: yellow;
+  width: 40px;
+}
+.ON {
+  background-color: greenyellow;
+  border-radius: 10px;
+}
+.OFF {
+  background-color: plum;
+  border-radius: 20px;
+}
